@@ -12,4 +12,4 @@
 
 ## ダウンロード
 
-[リリースページ](https://github.com/cykps/LithiumPX/releases/latest)からLithium PXフォントをダウンロード!
+[リリースページ](https://github.com/cykps/LithiumPX/releases/latest) からLithium PXフォントをダウンロード !
