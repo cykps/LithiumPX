@@ -1,6 +1,6 @@
 # Lithium PX
 
-![カバー画像](./docs/images/Lithium-cover.png)
+![カバー画像](./docs/images/cover.png)
 
 ## 特徴
 
